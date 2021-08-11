@@ -6,11 +6,11 @@
 ## Información General
 Este es un repositorio para el Caso #3 del curso Administración de Datos, el cual consta de 2 carpetas principales y 1 archivo creado con Colaboratory
 ## Carpetas y Archivos
-### Datos_procesados
+### Datos procesados
 En esta carpeta se encuentra un archivo .csv llamado Caso_3_cleanData.csv.
 #### Caso_3_cleanData.csv
 Este archivo contiene los datos luego de haber sido procesados.
-### Datos_sin_procesar
+### Datos sin procesar
 En esta carpeta se encuentra un archivo .csv llamado data.csv.
 #### data.csv
 Este archivo contiene la información original.
