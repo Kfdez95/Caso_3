@@ -16,4 +16,4 @@ En esta carpeta se encuentra un archivo .csv llamado data.csv.
 Este archivo contiene la información original.
 ## Integrantes
 Kevin Fernández Bonilla
-Ari 
+Ari
