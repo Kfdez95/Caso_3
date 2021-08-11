@@ -15,5 +15,5 @@ En esta carpeta se encuentra un archivo .csv llamado data.csv.
 #### data.csv
 Este archivo contiene la información original.
 ## Integrantes
-Kevin Fernández Bonilla
-Ari Vargas Valerín
+###Kevin Fernández Bonilla
+###Ari Vargas Valerín
